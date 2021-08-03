@@ -1,0 +1,14 @@
+com/bestauto/MainActivity.java
+ com.bestauto.MainActivity
+com/bestauto/ReactNativeFlipper.java
+ com.bestauto.ReactNativeFlipper
+ com.bestauto.ReactNativeFlipper$1
+ com.bestauto.ReactNativeFlipper$2
+ com.bestauto.ReactNativeFlipper$2$1
+com/bestauto/MainApplication.java
+ com.bestauto.MainApplication
+ com.bestauto.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/bestauto/BuildConfig.java
+ com.bestauto.BuildConfig
