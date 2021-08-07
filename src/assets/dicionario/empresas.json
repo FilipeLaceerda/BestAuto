@@ -2,33 +2,40 @@
     "empresas": [
         {
             "_id": 1, 
-            "name": "Chilli Beans",
-            "avatar": "chillibean.jpeg"
+            "name": "Atacarejo Auto Peças",
+            "avatar": "atacarejoautopecas.jpg"
         },
         {
             "_id": 2, 
-            "name": "Ray-Ban",
-            "avatar": "rayban.jpeg"
+            "name": "Brown Motos",
+            "avatar": "brownmotos.jpg"
         },
         {
             "_id": 3, 
-            "name": "H. Stern",
-            "avatar": "hstern.jpeg"
+            "name": "JKR Repair",
+            "avatar": "jkrepair.png"
     },
         {
             "_id": 4, 
-            "name": "Boticário",
-            "avatar": "boticario.jpeg"
+            "name": "Jota Auto Peças",
+            "avatar": "jotaautopecas.png"
         },
         {
             "_id": 5, 
-            "name": "Arezzo",
-            "avatar": "arezzo.jpeg"
+            "name": "Mec Diesel",
+            "avatar": "mecdiesel.jpg"
     },
         {
             "_id": 6, 
-            "name": "Dafiti",
-            "avatar": "dafiti.jpeg"
+            "name": "Mirauto",
+            "avatar": "mirauto.jpg"
+        },        
+        {
+            "_id": 7, 
+            "name": "Motor Cycle",
+            "avatar": "motorcycle.jpg"
         }        
-    ]
+    
+    ]        
+    
 }
