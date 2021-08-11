@@ -1,0 +1,196 @@
+{
+    "feeds": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "_id": 1, 
+                "name": "Atacarejo auto peças",
+                "avatar": "atacarejoautopeças.jpg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Auto peças",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://loja.atacarejoautopecas.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "_id": 2, 
+                "name": "Brown Motos",
+                "avatar": "brownmotos.jpg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Motocicletas",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://loja.brownmotos.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "slide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "_id": 3, 
+                "name": "JK repair",
+                "avatar": "jkrepair.png"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Oficina JK",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://www.jkrepair.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "_id": 3, 
+                "name": "Jota auto peças",
+                "avatar": "jotaautopecas.png"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Auto peças Jota",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://www.jotaautopecas.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "_id": 4, 
+                "name": "MEC diesel",
+                "avatar": "mecdiesel.jpg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Oficina de motores a diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://www.mecdiesel.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "_id": 5, 
+                "name": "mirauto",
+                "avatar": "mirauto.jpg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Auto peças",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://www.mirauto.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "_id": 6, 
+                "name": "Motorcycle",
+                "avatar": "motorcycle.jpg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Oficina de Motocicletas",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "url": "https://www.motorcycle.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "slide3.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

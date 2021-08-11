@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.bestauto"
+        applicationId "com.marcas"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
