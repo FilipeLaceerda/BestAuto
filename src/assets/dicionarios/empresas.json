@@ -1,0 +1,41 @@
+{
+    "empresas": [
+        {
+            "_id": 1, 
+            "name": "Atacarejo Auto Peças",
+            "avatar": "atacarejoautopecas.jpg"
+        },
+        {
+            "_id": 2, 
+            "name": "Brown Motos",
+            "avatar": "brownmotos.jpg"
+        },
+        {
+            "_id": 3, 
+            "name": "JKR Repair",
+            "avatar": "jkrepair.png"
+    },
+        {
+            "_id": 4, 
+            "name": "Jota Auto Peças",
+            "avatar": "jotaautopecas.png"
+        },
+        {
+            "_id": 5, 
+            "name": "Mec Diesel",
+            "avatar": "mecdiesel.jpg"
+    },
+        {
+            "_id": 6, 
+            "name": "Mirauto",
+            "avatar": "mirauto.jpg"
+        },        
+        {
+            "_id": 7, 
+            "name": "Motor Cycle",
+            "avatar": "motorcycle.jpg"
+        }        
+    
+    ]        
+    
+}
